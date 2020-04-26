@@ -1,2 +1,2 @@
 # Reduced-Image-Dimension-with-Autoencoders
-O conteúdo é um simples exemplo da grande importância do uso de autoencoders em projetos complexos que envolvem dados de imagens de grandes dimensões. O exemplo foi implementado no Jupyter Notebook em Python 3. 
+The content is a simple example of the great importance of using autoencoders in complex projects that involve large image data. The example was implemented in Jupyter Notebook in Python 3.
